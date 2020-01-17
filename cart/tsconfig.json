@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "module": "system",
+        "outDir": "js",
+        "watch": true
+    },
+    "exclude": [
+        "css",
+        "js",
+        "font"
+    ]
+}
